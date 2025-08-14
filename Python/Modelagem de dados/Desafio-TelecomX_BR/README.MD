@@ -76,9 +76,8 @@ Para replicar esta análise em seu ambiente local, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    # ATENÇÃO: Substitua pela URL real do seu novo repositório
-    git clone [https://github.com/PhilipeOliveiraS/TelecomX-Churn-Analysis.git](https://github.com/PhilipeOliveiraS/TelecomX-Churn-Analysis.git)
-    cd TelecomX-Churn-Analysis
+    git clone [https://github.com/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura.git](https://github.com/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura.git)
+    cd ONE---Oracle-Next-Education---Alura
     ```
 
 2.  **Crie e ative o ambiente virtual:**
@@ -114,7 +113,7 @@ Para replicar esta análise em seu ambiente local, siga os passos abaixo.
     ```bash
     jupyter notebook
     ```
-2.  **Abra o arquivo:** No seu navegador, clique no arquivo `TelecomX_BR_Final.ipynb`.
+2.  **Abra o arquivo:** No seu navegador, navegue até a pasta `Python/Modelagem de dados/Desafio-TelecomX_BR` e abra o arquivo `TelecomX_BR_Final.ipynb`.
 3.  **Execute as células:** Execute as células em ordem para replicar todo o fluxo.
 
 ---
@@ -152,7 +151,7 @@ Este projeto está sob a licença MIT.
 
 ---
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PhilipeOliveiraS&repo=TelecomX-Churn-Analysis&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)](https://github.com/PhilipeOliveiraS/TelecomX-Churn-Analysis)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PhilipeOliveiraS&repo=ONE---Oracle-Next-Education---Alura&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)](https://github.com/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura/tree/main/Python/Modelagem%20de%20dados/Desafio-TelecomX_BR)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeOliveiraS&layout=compact&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
@@ -160,16 +159,16 @@ Este projeto está sob a licença MIT.
 ---
 
 ## 📈 Estatísticas do Repositório
-![Repo Size](https://img.shields.io/github/repo-size/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=social&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=social&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=social&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=social&style=for-the-badge)
 
 ---
 
 ### Estatísticas do Projeto
-![Commit Activity](https://img.shields.io/github/commit-activity/y/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/PhilipeOliveiraS/TelecomX-Churn-Analysis?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/PhilipeOliveiraS/ONE---Oracle-Next-Education---Alura?style=for-the-badge)
 ---
 ![Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 ---
